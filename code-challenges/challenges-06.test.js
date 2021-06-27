@@ -80,6 +80,7 @@ const addBirthYearProperty = (obj, year) => {
   // Solution code here...
 };
 
+
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 5 - Stretch Goal
 
