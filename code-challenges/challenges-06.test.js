@@ -23,10 +23,6 @@ Returns: ['dyoll', 'eimaj'];
 ------------------------------------------------------------------------------------------------ */
 
 const getNames = (arr) => {
-  let newArr1=arr.map(number=>{
-    return number.name.split("").reverse().join("").split(" ").reverse().join(" ") // i taket as it from the web it should revers the elemnt insid the array 
-  })
-  return newArr1
   // Solution code here...
 };
 
