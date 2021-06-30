@@ -41,6 +41,9 @@ Write a function named removeThree that takes an index and an array. The functio
 ------------------------------------------------------------------------------------------------ */
 
 const removeThree = (idx, arr) => {
+  arr.splice(idx,3)
+  return arr
+
   // Solution code here...
 };
 
@@ -51,6 +54,9 @@ Write a function named joinArray that takes an array and joins all of the elemen
 ------------------------------------------------------------------------------------------------ */
 
 const joinArray = (arr) => {
+  let newArray=arr.join(' ');
+  
+  return newArray;
   // Solution code here...
 };
 
@@ -69,7 +75,14 @@ For example, if the input is 'Welcome', the output will be:
 
 const howMuchPencil = (str) => {
   let result = [];
+
+  for (let i = 0; i <= str.length; i++) {
+    let newArray2 = str.slice(i, str.length);
+    result.push( newArray2 );
+  }
+
   // Solution code here...
+
   return result;
 };
 
@@ -82,6 +95,9 @@ For example, wordsToCharList('gregor') returns ['g','r','e','g','o','r'].
 ------------------------------------------------------------------------------------------------ */
 
 const wordsToCharList = (arr) => {
+  let newArray3=arr.split('');
+  return newArray3
+
   // Solution code here...
 };
 
