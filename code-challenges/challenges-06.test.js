@@ -23,6 +23,8 @@ Returns: ['dyoll', 'eimaj'];
 ------------------------------------------------------------------------------------------------ */
 
 const getNames = (arr) => {
+  return arr.map(str=>str.name.split('').reduce((a,b)=>b+a,''))
+
   // Solution code here...
 };
 

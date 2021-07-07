@@ -111,42 +111,15 @@ Here is an example of the input:
 ------------------------------------------------------------------------------------------------ */
 
 const sortByPrice = (arr) => {
+    // Solution code here...
+    return arr.sort((a,b)=>a.price-b.price)
+ 
+  };
+
+
+
   
-  //  function asc(a, b) {
-  //   return a < b ? -1 : a > b ? 1 : a >= b ? 0 : NaN;
-  //  }
-  // arr.sort((a, b) => asc(a.value, b.value));
 
-
-//  arr.sort(function (x, y) {
-//     let a = x.name.toUpperCase(),
-//         b = y.name.toUpperCase();
-//         return a == b ? 0 : a > b ? 1 : -1;
-//       });
-
-
-}
-  
-// return arr
-  // Solution code here...
-
-
-
-
-//   function sortList(list,order){
-//     if(order=="ASC"){
-//        return list.sort((a,b)=>{
-//            return parseFloat(a.price) - parseFloat(b.price);
-//        })
-//     }
-//     else{
-//        return list.sort((a,b)=>{
-//            return parseFloat(b.price) - parseFloat(a.price);
-//        });
-//     }
-// }
-
-// sortList(arr)
 
 
 /* ------------------------------------------------------------------------------------------------
