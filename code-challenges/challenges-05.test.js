@@ -133,6 +133,13 @@ let starWarsData = [{
 }];
 
 const returnNames = (arr) => {
+
+
+  let newArr5= [];
+  return arr.reduce((forArr,Arr) => {
+    newArr5.push(forArr = Arr.name);
+    return newArr5;
+  },[]);
   // Solution code here...
 };
 
@@ -145,6 +152,9 @@ Note: You must use reduce for this challenge. You may not use the built-in .reve
 ------------------------------------------------------------------------------------------------ */
 
 const reversedString = (str) => {
+
+  return str.split('').reduce((a, b) => b + a);
+
   // Solution code here...
 };
 
