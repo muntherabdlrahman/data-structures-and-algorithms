@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <coverage generated="1625847326826" clover="3.2.0">
   <project timestamp="1625847326826" name="All files">
+=======
+
+
+<coverage generated="1625698928859" clover="3.2.0">
+  <project timestamp="1625698928859" name="All files">
+
+<coverage generated="1625697671751" clover="3.2.0">
+  <project timestamp="1625697671751" name="All files">
+
+
+
+<coverage generated="1625696656133" clover="3.2.0">
+  <project timestamp="1625696656133" name="All files">
+
+
+<coverage generated="1625425072293" clover="3.2.0">
+  <project timestamp="1625425072293" name="All files">
+
+<coverage generated="1625336373139" clover="3.2.0">
+  <project timestamp="1625336373139" name="All files">
+<coverage generated="1625335306147" clover="3.2.0">
+  <project timestamp="1625335306147" name="All files">
+<coverage generated="1625334982938" clover="3.2.0">
+  <project timestamp="1625334982938" name="All files">
+<coverage generated="1625334520736" clover="3.2.0">
+  <project timestamp="1625334520736" name="All files">
+<coverage generated="1625333991711" clover="3.2.0">
+  <project timestamp="1625333991712" name="All files">
+
+<coverage generated="1625155187138" clover="3.2.0">
+  <project timestamp="1625155187138" name="All files">
+>>>>>>> d3ad3942a008e2d617b3f23aafcf3fdceeb04e7b
     <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="0" coveredelements="0" complexity="0" loc="0" ncloc="0" packages="0" files="0" classes="0"/>
   </project>
 </coverage>
