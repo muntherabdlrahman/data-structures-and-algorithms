@@ -17,3 +17,4 @@ Each day, you'll add one new file to this folder to do your work for the day's a
 No|Code #
 ---|---
 1|[code-challenge01](401-code-challenge/array-reverse/Readme.md)
+2|[code-challenge02](401-code-challenge/array-insert-shift/Read2.md)
