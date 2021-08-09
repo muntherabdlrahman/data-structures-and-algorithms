@@ -1,4 +1,5 @@
-let array=[1,2,3,4]
+let array=[1,2,3,4];
+
 
 function pushinside(arr,number){
     let newArray=[];
@@ -13,7 +14,7 @@ function pushinside(arr,number){
 
     })
     return newArray
-};
+}
 
-console.log(pushinside(array,3.5))
+// console.log(pushinside(array,3.5));
 
