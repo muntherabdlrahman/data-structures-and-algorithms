@@ -26,5 +26,5 @@ No|Code #
 2|[code-challenge02](401-code-challenge/array-insert-shift/Read2.md)
 3|[code-challenge03](401-code-challenge/array-binary-search/readarray-binary-search.md)
 4|[code-challenge04](401-code-challenge/linked-list/read05.md)
-5|[code-challenge04](401-code-challenge/linked-list-insertions/readme.md)
+5|[code-challenge05](401-code-challenge/linked-list-insertions/readme.md)
 
