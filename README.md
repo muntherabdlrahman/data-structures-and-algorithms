@@ -28,4 +28,5 @@ No|Code #
 4|[code-challenge04](401-code-challenge/linked-list/read05.md)
 5|[code-challenge05](401-code-challenge/linked-list-insertions/readme.md)
 6|[code-challenge06](401-code-challenge/linked-list-kth/readme.md)
+7|[code-challenge07](401-code-challenge/linked-list-zip/readme.md)
 
