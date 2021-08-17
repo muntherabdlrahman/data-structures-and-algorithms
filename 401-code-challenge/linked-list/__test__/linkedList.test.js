@@ -5,60 +5,60 @@ let LinkedList = require('../linkedList');
 describe('LinkedList', ()=> {
 
     it('the initial constructor()', ()=> {
-        let theList = new LinkedList();
-        expect(theList.head).toBeNull();
-        expect(theList.tail).toBeNull();
-        expect(theList.length).toEqual(0);
+        let newList = new LinkedList();
+        expect(newList.head).toBeNull();
+        expect(newList.tail).toBeNull();
+        expect(newList.length).toEqual(0);
     });
 
     it('insert()',()=>{
-        let theList=new LinkedList();
-        theList.insert(1);
-        expect(theList.head.value).toEqual(1);
-        expect(theList.head.next).toBeNull();
+        let newList=new LinkedList();
+        newList.insert(1);
+        expect(newList.head.value).toEqual(1);
+        expect(newList.head.next).toBeNull();
     });
-    it('insert() node',()=>{
-        let theList=new LinkedList;
-        theList.insert("a");
-        theList.append("b");
-        expect(theList.head.value).toEqual(1);
-        expect(theList.head.next.value).toEqual(2);
+    it('insert() many node',()=>{
+        let newList=new LinkedList;
+        newList.insert(1);
+        newList.append(2);
+        expect(newList.head.value).toEqual(1);
+        expect(newList.head.next.value).toEqual(2);
     });
     it('append()', ()=> {
-        let theList = new LinkedList();
-        let initialValue = 'First one';
-        theList.append(initialValue);
-        expect(theList.head.value).toEqual(initialValue);
+        let newList = new LinkedList();
+        let initialValue = 'First Item';
+        newList.append(initialValue);
+        expect(newList.head.value).toEqual(initialValue);
 
-        let anotherOne = 'The Second';
-        theList.append(anotherOne);
-        expect(theList.head.next.value).toEqual(anotherOne);
-        expect(theList.head.next.next).toBeNull();
-        expect(theList.head.value).toEqual(initialValue);
+        let anotherOne = 'Second Item';
+        newList.append(anotherOne);
+        expect(newList.head.next.value).toEqual(anotherOne);
+        expect(newList.head.next.next).toBeNull();
+        expect(newList.head.value).toEqual(initialValue);
     });
-    it('include() true the questions boluen',()=>{
-        let theList=new LinkedList;
-        theList.insert("a");
-        theList.append("b");
-        expect(theList.includes(2)).toEqual(true);
+    it('include() tru',()=>{
+        let newList=new LinkedList;
+        newList.insert(1);
+        newList.append(2);
+        expect(newList.includes(2)).toEqual(true);
     });
     it('include() false',()=>{
-        let theList=new LinkedList;
-        theList.insert("a");
-        theList.append("b");
-        expect(theList.includes(5)).toEqual(false);
+        let newList=new LinkedList;
+        newList.insert(1);
+        newList.append(2);
+        expect(newList.includes(5)).toEqual(false);
     });
     it('toStrinf()',()=>{
-        let theList=new LinkedList;
-        theList.insert("a");
-        theList.append("b");
-        expect(theList.toString()).toEqual('{1}-->{2}-->NULL');
+        let newList=new LinkedList;
+        newList.insert(1);
+        newList.append(2);
+        expect(newList.toString()).toEqual('{1}-->{2}-->NULL');
     });
-    it('toStrinf() not exisit',()=>{
-        let theList=new LinkedList;
-        theList.toString()
-        expect(theList.head).toEqual(null);
-    });
+    // it('toStrinf() not exisit',()=>{
+    //     let newList=new LinkedList;
+    //     newList.toString()
+    //     expect(newList.head).toEqual(null);
+    // });
 
 
 });
