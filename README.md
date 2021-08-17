@@ -24,3 +24,9 @@ No|Code #
 ---|---
 1|[code-challenge01](401-code-challenge/array-reverse/Readme.md)
 2|[code-challenge02](401-code-challenge/array-insert-shift/Read2.md)
+3|[code-challenge03](401-code-challenge/array-binary-search/readarray-binary-search.md)
+4|[code-challenge04](401-code-challenge/linked-list/read05.md)
+5|[code-challenge05](401-code-challenge/linked-list-insertions/readme.md)
+6|[code-challenge06](401-code-challenge/linked-list-kth/readme.md)
+7|[code-challenge07](401-code-challenge/linked-list-zip/readme.md)
+
