@@ -30,5 +30,7 @@ No|Code #
 6|[code-challenge06](401-code-challenge/linked-list-kth/readme.md)
 7|[code-challenge07](401-code-challenge/linked-list-zip/readme.md)
 8|[code-challenge09](401-code-challenge/codeChallinge9/README.md)
+9|[code-challenge10](401-code-challenge/stack-and-queue/README.md)
+
 
 
