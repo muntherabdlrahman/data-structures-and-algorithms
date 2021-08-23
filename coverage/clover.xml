@@ -1,109 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1629661118922" clover="3.2.0">
-  <project timestamp="1629661118922" name="All files">
-    <metrics statements="21" coveredstatements="21" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7" elements="28" coveredelements="28" complexity="0" loc="21" ncloc="21" packages="7" files="7" classes="7"/>
-    <package name="codeChallinge9">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/codeChallinge9/node.js">
-        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="3" count="1" type="stmt"/>
-        <line num="4" count="1" type="stmt"/>
-        <line num="8" count="1" type="stmt"/>
-      </file>
-    </package>
-    <package name="linked-list">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/linked-list/node.js">
-        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="3" count="1" type="stmt"/>
-        <line num="4" count="1" type="stmt"/>
-        <line num="8" count="1" type="stmt"/>
-      </file>
-    </package>
-    <package name="linked-list-insertions">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/linked-list-insertions/node.js">
-        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="3" count="1" type="stmt"/>
-        <line num="4" count="1" type="stmt"/>
-        <line num="8" count="1" type="stmt"/>
-      </file>
-    </package>
-    <package name="linked-list-kth">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/linked-list-kth/node.js">
-        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="3" count="1" type="stmt"/>
-        <line num="4" count="1" type="stmt"/>
-        <line num="8" count="1" type="stmt"/>
-      </file>
-    </package>
-    <package name="linked-list-zip">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/linked-list-zip/node.js">
-        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="4" count="1" type="stmt"/>
-        <line num="5" count="1" type="stmt"/>
-        <line num="9" count="1" type="stmt"/>
-      </file>
-    </package>
+<coverage generated="1629751068573" clover="3.2.0">
+  <project timestamp="1629751068573" name="All files">
+    <metrics statements="146" coveredstatements="117" conditionals="42" coveredconditionals="22" methods="28" coveredmethods="21" elements="216" coveredelements="160" complexity="0" loc="146" ncloc="146" packages="3" files="8" classes="8"/>
     <package name="stack-and-queue">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <metrics statements="32" coveredstatements="29" conditionals="10" coveredconditionals="7" methods="6" coveredmethods="6"/>
       <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/stack-and-queue/node.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="5" count="1" type="stmt"/>
-        <line num="6" count="1" type="stmt"/>
+        <line num="5" count="17" type="stmt"/>
+        <line num="6" count="17" type="stmt"/>
         <line num="11" count="1" type="stmt"/>
+      </file>
+      <file name="queue.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/stack-and-queue/queue.js">
+        <metrics statements="29" coveredstatements="26" conditionals="10" coveredconditionals="7" methods="5" coveredmethods="5"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="12" count="17" type="stmt"/>
+        <line num="13" count="17" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="7" type="stmt"/>
+        <line num="15" count="7" type="stmt"/>
+        <line num="17" count="10" type="stmt"/>
+        <line num="18" count="10" type="stmt"/>
+        <line num="23" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="26" count="4" type="stmt"/>
+        <line num="27" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="30" count="4" type="stmt"/>
+        <line num="32" count="4" type="stmt"/>
+        <line num="37" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="45" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="stack-queue-animal-shelter">
+      <metrics statements="52" coveredstatements="38" conditionals="16" coveredconditionals="7" methods="11" coveredmethods="7"/>
+      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/stack-queue-animal-shelter/node.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="15" type="stmt"/>
+        <line num="6" count="15" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="queue.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/stack-queue-animal-shelter/queue.js">
+        <metrics statements="21" coveredstatements="14" conditionals="6" coveredconditionals="2" methods="5" coveredmethods="3"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="16" count="9" type="stmt"/>
+        <line num="17" count="9" type="stmt"/>
+        <line num="21" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="27" count="6" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="37" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="45" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+      </file>
+      <file name="stack.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/stack-queue-animal-shelter/stack.js">
+        <metrics statements="28" coveredstatements="21" conditionals="10" coveredconditionals="5" methods="5" coveredmethods="3"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="13" count="15" type="stmt"/>
+        <line num="14" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="5" type="stmt"/>
+        <line num="16" count="5" type="stmt"/>
+        <line num="18" count="10" type="stmt"/>
+        <line num="19" count="10" type="stmt"/>
+        <line num="20" count="10" type="stmt"/>
+        <line num="22" count="15" type="stmt"/>
+        <line num="23" count="15" type="stmt"/>
+        <line num="27" count="10" type="cond" truecount="1" falsecount="1"/>
+        <line num="29" count="10" type="stmt"/>
+        <line num="31" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="3" type="stmt"/>
+        <line num="34" count="10" type="stmt"/>
+        <line num="35" count="10" type="stmt"/>
+        <line num="36" count="10" type="stmt"/>
+        <line num="41" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="49" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
       </file>
     </package>
     <package name="stack-queue-pseudo">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <metrics statements="62" coveredstatements="50" conditionals="16" coveredconditionals="8" methods="11" coveredmethods="8"/>
       <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/stack-queue-pseudo/node.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-        <line num="5" count="1" type="stmt"/>
-        <line num="6" count="1" type="stmt"/>
+        <line num="5" count="21" type="stmt"/>
+        <line num="6" count="21" type="stmt"/>
         <line num="10" count="1" type="stmt"/>
       </file>
+      <file name="queue.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/stack-queue-pseudo/queue.js">
+        <metrics statements="26" coveredstatements="19" conditionals="6" coveredconditionals="2" methods="5" coveredmethods="3"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="16" count="12" type="stmt"/>
+        <line num="17" count="12" type="stmt"/>
+        <line num="21" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="27" count="6" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="37" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="45" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+      </file>
+      <file name="stak.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/stack-queue-pseudo/stak.js">
+        <metrics statements="33" coveredstatements="28" conditionals="10" coveredconditionals="6" methods="5" coveredmethods="4"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="7" count="9" type="stmt"/>
+        <line num="8" count="9" type="stmt"/>
+        <line num="9" count="9" type="stmt"/>
+        <line num="13" count="21" type="stmt"/>
+        <line num="14" count="21" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="7" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="18" count="14" type="stmt"/>
+        <line num="19" count="14" type="stmt"/>
+        <line num="20" count="14" type="stmt"/>
+        <line num="22" count="21" type="stmt"/>
+        <line num="23" count="21" type="stmt"/>
+        <line num="27" count="10" type="cond" truecount="1" falsecount="1"/>
+        <line num="29" count="10" type="stmt"/>
+        <line num="31" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="3" type="stmt"/>
+        <line num="34" count="10" type="stmt"/>
+        <line num="35" count="10" type="stmt"/>
+        <line num="36" count="10" type="stmt"/>
+        <line num="41" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="49" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+      </file>
     </package>
-
-
-<coverage generated="1625849286574" clover="3.2.0">
-  <project timestamp="1625849286574" name="All files">
-
-<coverage generated="1625847326826" clover="3.2.0">
-  <project timestamp="1625847326826" name="All files">
-
-
-
-<coverage generated="1625698928859" clover="3.2.0">
-  <project timestamp="1625698928859" name="All files">
-
-<coverage generated="1625697671751" clover="3.2.0">
-  <project timestamp="1625697671751" name="All files">
-
-
-<coverage generated="1625696656133" clover="3.2.0">
-  <project timestamp="1625696656133" name="All files">
-
-
-<coverage generated="1625425072293" clover="3.2.0">
-  <project timestamp="1625425072293" name="All files">
-
-<coverage generated="1625336373139" clover="3.2.0">
-  <project timestamp="1625336373139" name="All files">
-<coverage generated="1625335306147" clover="3.2.0">
-  <project timestamp="1625335306147" name="All files">
-<coverage generated="1625334982938" clover="3.2.0">
-  <project timestamp="1625334982938" name="All files">
-<coverage generated="1625334520736" clover="3.2.0">
-  <project timestamp="1625334520736" name="All files">
-<coverage generated="1625333991711" clover="3.2.0">
-  <project timestamp="1625333991712" name="All files">
-
-<coverage generated="1625155187138" clover="3.2.0">
-  <project timestamp="1625155187138" name="All files">
-
-
-    <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="0" coveredelements="0" complexity="0" loc="0" ncloc="0" packages="0" files="0" classes="0"/>
   </project>
 </coverage>
