@@ -32,8 +32,10 @@ No|Code #
 8|[code-challenge09](401-code-challenge/codeChallinge9/README.md)
 9|[code-challenge10](401-code-challenge/stack-and-queue/README.md)
 10|[code-challenge11](401-code-challenge/stack-queue-pseudo/readme.md)
-11|[code-challenge11](401-code-challenge/stack-queue-pseudo/readme.md)
-12|[code-challenge11](401-code-challenge/stack-queue-brackets/read.md)
+11|[code-challenge12](401-code-challenge/stack-queue-pseudo/readme.md)
+12|[code-challenge13](401-code-challenge/stack-queue-brackets/read.md)
+13|[code-challenge14](401-code-challenge/code14MaxStack/README.md)
+
 
 
 
