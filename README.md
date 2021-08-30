@@ -35,9 +35,9 @@ No|Code #
 11|[code-challenge12](401-code-challenge/stack-queue-pseudo/readme.md)
 12|[code-challenge13](401-code-challenge/stack-queue-brackets/read.md)
 13|[code-challenge14](401-code-challenge/code14MaxStack/README.md)
-14|[code-challenge14](401-code-challenge/tree-max/read.md)
-15|[code-challenge14](401-code-challenge/tree-max/read.md)
-16|[code-challenge14](401-code-challenge/tree-breadth-first/read.md)
+14|[code-challenge15](401-code-challenge/tree-max/read.md)
+15|[code-challenge16](401-code-challenge/tree-max/read.md)
+16|[code-challenge17](401-code-challenge/tree-breadth-first/read.md)
 
 
 
