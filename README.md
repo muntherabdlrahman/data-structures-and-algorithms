@@ -38,6 +38,7 @@ No|Code #
 14|[code-challenge15](401-code-challenge/tree-max/read.md)
 15|[code-challenge16](401-code-challenge/tree-max/read.md)
 16|[code-challenge17](401-code-challenge/tree-breadth-first/read.md)
+17|[code-challenge18](401-code-challenge/tree-fizz-buzz/read.md)
 
 
 
