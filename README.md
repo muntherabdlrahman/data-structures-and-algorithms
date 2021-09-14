@@ -40,6 +40,10 @@ No|Code #
 16|[code-challenge17](401-code-challenge/tree-breadth-first/read.md)
 17|[code-challenge18](401-code-challenge/tree-fizz-buzz/read.md)
 18|[code-challenge19](401-code-challenge/comparing/read.md)
+19|[code-challenge26](401-code-challenge/InsertionSort/BLOG.md)
+20|[code-challenge28](401-code-challenge/QuickSort/BLOG.md)
+
+
 
 
 
