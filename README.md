@@ -41,6 +41,7 @@ No|Code #
 17|[code-challenge18](401-code-challenge/tree-fizz-buzz/read.md)
 18|[code-challenge19](401-code-challenge/comparing/read.md)
 19|[code-challenge26](401-code-challenge/InsertionSort/BLOG.md)
+19.5|[code-challenge27](401-code-challenge/MergeSort/blog.md)
 20|[code-challenge28](401-code-challenge/QuickSort/BLOG.md)
 
 
