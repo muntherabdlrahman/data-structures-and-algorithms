@@ -1,77 +1,1469 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1632126764805" clover="3.2.0">
-  <project timestamp="1632126764805" name="All files">
-    <metrics statements="62" coveredstatements="53" conditionals="20" coveredconditionals="14" methods="10" coveredmethods="9" elements="92" coveredelements="76" complexity="0" loc="62" ncloc="62" packages="1" files="3" classes="3"/>
-    <file name="hashTable.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/hashtable/hashTable.js">
-      <metrics statements="41" coveredstatements="40" conditionals="16" coveredconditionals="12" methods="6" coveredmethods="6"/>
-      <line num="3" count="1" type="stmt"/>
-      <line num="7" count="6" type="stmt"/>
-      <line num="8" count="6" type="stmt"/>
-      <line num="12" count="23" type="stmt"/>
-      <line num="14" count="91" type="stmt"/>
-      <line num="22" count="10" type="stmt"/>
-      <line num="23" count="10" type="stmt"/>
-      <line num="24" count="10" type="cond" truecount="2" falsecount="0"/>
-      <line num="25" count="7" type="stmt"/>
-      <line num="27" count="10" type="stmt"/>
-      <line num="28" count="10" type="stmt"/>
-      <line num="32" count="5" type="stmt"/>
-      <line num="34" count="5" type="cond" truecount="2" falsecount="0"/>
-      <line num="36" count="4" type="stmt"/>
-      <line num="37" count="4" type="stmt"/>
-      <line num="38" count="4" type="cond" truecount="2" falsecount="0"/>
-      <line num="40" count="2" type="stmt"/>
-      <line num="41" count="2" type="stmt"/>
-      <line num="42" count="2" type="cond" truecount="1" falsecount="1"/>
-      <line num="47" count="4" type="stmt"/>
-      <line num="48" count="4" type="cond" truecount="1" falsecount="1"/>
-      <line num="50" count="4" type="stmt"/>
-      <line num="52" count="4" type="cond" truecount="1" falsecount="1"/>
-      <line num="53" count="0" type="stmt"/>
-      <line num="55" count="4" type="stmt"/>
-      <line num="56" count="4" type="cond" truecount="2" falsecount="0"/>
-      <line num="58" count="1" type="stmt"/>
-      <line num="59" count="1" type="stmt"/>
-      <line num="60" count="1" type="cond" truecount="1" falsecount="1"/>
-      <line num="66" count="1" type="stmt"/>
-      <line num="67" count="1" type="stmt"/>
-      <line num="68" count="1" type="stmt"/>
-      <line num="69" count="1" type="stmt"/>
-      <line num="70" count="1" type="stmt"/>
-      <line num="72" count="1" type="stmt"/>
-      <line num="73" count="1" type="stmt"/>
-      <line num="74" count="1" type="stmt"/>
-      <line num="75" count="1" type="stmt"/>
-      <line num="78" count="1" type="stmt"/>
-      <line num="79" count="1" type="stmt"/>
-      <line num="81" count="1" type="stmt"/>
-    </file>
-    <file name="linkedList.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/hashtable/linkedList.js">
-      <metrics statements="18" coveredstatements="10" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="2"/>
-      <line num="2" count="1" type="stmt"/>
-      <line num="6" count="7" type="stmt"/>
-      <line num="10" count="10" type="stmt"/>
-      <line num="11" count="10" type="cond" truecount="2" falsecount="0"/>
-      <line num="12" count="7" type="stmt"/>
-      <line num="13" count="7" type="stmt"/>
-      <line num="15" count="3" type="stmt"/>
-      <line num="16" count="3" type="stmt"/>
-      <line num="17" count="0" type="stmt"/>
-      <line num="19" count="3" type="stmt"/>
-      <line num="23" count="0" type="cond" truecount="0" falsecount="2"/>
-      <line num="25" count="0" type="stmt"/>
-      <line num="26" count="0" type="stmt"/>
-      <line num="27" count="0" type="stmt"/>
-      <line num="28" count="0" type="stmt"/>
-      <line num="29" count="0" type="stmt"/>
-      <line num="31" count="0" type="stmt"/>
-      <line num="35" count="1" type="stmt"/>
-    </file>
-    <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/hashtable/node.js">
+<coverage generated="1632153639543" clover="3.2.0">
+  <project timestamp="1632153639544" name="All files">
+    <metrics statements="1256" coveredstatements="1037" conditionals="410" coveredconditionals="266" methods="182" coveredmethods="151" elements="1848" coveredelements="1454" complexity="0" loc="1256" ncloc="1256" packages="21" files="48" classes="48"/>
+    <package name="401-code-challenge. comparing">
+      <metrics statements="103" coveredstatements="51" conditionals="48" coveredconditionals="18" methods="14" coveredmethods="5"/>
+      <file name="binaryTree.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/ comparing/binaryTree.js">
+        <metrics statements="99" coveredstatements="47" conditionals="48" coveredconditionals="18" methods="13" coveredmethods="4"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="45" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="55" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="60" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="61" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="62" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="70" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="80" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="83" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="87" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="88" count="0" type="stmt"/>
+        <line num="91" count="0" type="stmt"/>
+        <line num="95" count="2" type="stmt"/>
+        <line num="96" count="2" type="stmt"/>
+        <line num="97" count="2" type="stmt"/>
+        <line num="99" count="2" type="stmt"/>
+        <line num="100" count="10" type="cond" truecount="4" falsecount="0"/>
+        <line num="101" count="6" type="stmt"/>
+        <line num="103" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="104" count="4" type="stmt"/>
+        <line num="106" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="107" count="4" type="stmt"/>
+        <line num="111" count="2" type="stmt"/>
+        <line num="112" count="8" type="cond" truecount="4" falsecount="0"/>
+        <line num="113" count="5" type="stmt"/>
+        <line num="115" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="116" count="3" type="stmt"/>
+        <line num="118" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="119" count="3" type="stmt"/>
+        <line num="122" count="2" type="stmt"/>
+        <line num="123" count="2" type="stmt"/>
+        <line num="125" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="126" count="1" type="stmt"/>
+        <line num="129" count="2" type="stmt"/>
+        <line num="133" count="1" type="stmt"/>
+        <line num="134" count="1" type="stmt"/>
+        <line num="135" count="1" type="stmt"/>
+        <line num="136" count="1" type="stmt"/>
+        <line num="137" count="1" type="stmt"/>
+        <line num="139" count="1" type="stmt"/>
+        <line num="140" count="1" type="stmt"/>
+        <line num="141" count="1" type="stmt"/>
+        <line num="142" count="1" type="stmt"/>
+        <line num="144" count="1" type="stmt"/>
+        <line num="146" count="1" type="stmt"/>
+        <line num="148" count="1" type="stmt"/>
+        <line num="149" count="1" type="stmt"/>
+        <line num="150" count="1" type="stmt"/>
+        <line num="151" count="1" type="stmt"/>
+        <line num="152" count="1" type="stmt"/>
+        <line num="154" count="1" type="stmt"/>
+        <line num="155" count="1" type="stmt"/>
+        <line num="156" count="1" type="stmt"/>
+        <line num="157" count="1" type="stmt"/>
+        <line num="159" count="1" type="stmt"/>
+        <line num="161" count="1" type="stmt"/>
+        <line num="167" count="1" type="stmt"/>
+      </file>
+      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/ comparing/node.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="30" type="stmt"/>
+        <line num="6" count="30" type="stmt"/>
+        <line num="7" count="30" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="401-code-challenge.InsertionSort">
+      <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="insertionSort.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/InsertionSort/insertionSort.js">
+        <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="25" type="stmt"/>
+        <line num="8" count="25" type="cond" truecount="2" falsecount="0"/>
+        <line num="9" count="47" type="stmt"/>
+        <line num="11" count="25" type="stmt"/>
+        <line num="13" count="5" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="401-code-challenge.QuickSort">
+      <metrics statements="26" coveredstatements="26" conditionals="10" coveredconditionals="9" methods="3" coveredmethods="3"/>
+      <file name="quickSort.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/QuickSort/quickSort.js">
+        <metrics statements="26" coveredstatements="26" conditionals="10" coveredconditionals="9" methods="3" coveredmethods="3"/>
+        <line num="5" count="24" type="cond" truecount="1" falsecount="1"/>
+        <line num="6" count="24" type="stmt"/>
+        <line num="7" count="24" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="12" type="stmt"/>
+        <line num="10" count="24" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="14" count="24" type="stmt"/>
+        <line num="18" count="24" type="stmt"/>
+        <line num="19" count="24" type="stmt"/>
+        <line num="20" count="24" type="stmt"/>
+        <line num="21" count="24" type="stmt"/>
+        <line num="22" count="32" type="stmt"/>
+        <line num="23" count="15" type="stmt"/>
+        <line num="25" count="32" type="stmt"/>
+        <line num="26" count="18" type="stmt"/>
+        <line num="28" count="32" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="30" type="stmt"/>
+        <line num="30" count="30" type="stmt"/>
+        <line num="31" count="30" type="stmt"/>
+        <line num="35" count="24" type="stmt"/>
+        <line num="39" count="30" type="stmt"/>
+        <line num="40" count="30" type="stmt"/>
+        <line num="41" count="30" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="401-code-challenge.code14MaxStack">
+      <metrics statements="45" coveredstatements="44" conditionals="14" coveredconditionals="11" methods="7" coveredmethods="7"/>
+      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/code14MaxStack/node.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="26" type="stmt"/>
+        <line num="6" count="26" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+      </file>
+      <file name="stack.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/code14MaxStack/stack.js">
+        <metrics statements="42" coveredstatements="41" conditionals="14" coveredconditionals="11" methods="6" coveredmethods="6"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="7" count="11" type="stmt"/>
+        <line num="8" count="11" type="stmt"/>
+        <line num="9" count="11" type="stmt"/>
+        <line num="13" count="25" type="stmt"/>
+        <line num="14" count="25" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="9" type="stmt"/>
+        <line num="16" count="9" type="stmt"/>
+        <line num="18" count="16" type="stmt"/>
+        <line num="19" count="16" type="stmt"/>
+        <line num="20" count="16" type="stmt"/>
+        <line num="22" count="25" type="stmt"/>
+        <line num="23" count="25" type="stmt"/>
+        <line num="27" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="31" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="34" count="3" type="stmt"/>
+        <line num="35" count="3" type="stmt"/>
+        <line num="36" count="3" type="stmt"/>
+        <line num="40" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="44" count="3" type="stmt"/>
+        <line num="45" count="3" type="stmt"/>
+        <line num="46" count="3" type="stmt"/>
+        <line num="47" count="3" type="stmt"/>
+        <line num="48" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="49" count="3" type="stmt"/>
+        <line num="51" count="9" type="stmt"/>
+        <line num="53" count="3" type="stmt"/>
+        <line num="58" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="66" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="73" count="2" type="stmt"/>
+        <line num="74" count="2" type="stmt"/>
+        <line num="75" count="2" type="stmt"/>
+        <line num="76" count="2" type="stmt"/>
+        <line num="78" count="2" type="stmt"/>
+        <line num="80" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="401-code-challenge.codeChallinge9">
+      <metrics statements="133" coveredstatements="124" conditionals="36" coveredconditionals="28" methods="11" coveredmethods="11"/>
+      <file name="linkedList.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/codeChallinge9/linkedList.js">
+        <metrics statements="130" coveredstatements="121" conditionals="36" coveredconditionals="28" methods="10" coveredmethods="10"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="31" type="stmt"/>
+        <line num="6" count="31" type="stmt"/>
+        <line num="7" count="31" type="stmt"/>
+        <line num="11" count="24" type="stmt"/>
+        <line num="12" count="24" type="cond" truecount="1" falsecount="1"/>
+        <line num="13" count="24" type="stmt"/>
+        <line num="14" count="24" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="24" type="stmt"/>
+        <line num="20" count="24" type="stmt"/>
+        <line num="23" count="67" type="stmt"/>
+        <line num="24" count="67" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="66" type="stmt"/>
+        <line num="28" count="66" type="stmt"/>
+        <line num="29" count="91" type="stmt"/>
+        <line num="31" count="66" type="stmt"/>
+        <line num="32" count="66" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="56" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="66" count="2" type="stmt"/>
+        <line num="67" count="2" type="stmt"/>
+        <line num="68" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="72" count="3" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="78" count="5" type="stmt"/>
+        <line num="79" count="5" type="stmt"/>
+        <line num="80" count="5" type="stmt"/>
+        <line num="81" count="17" type="stmt"/>
+        <line num="82" count="17" type="stmt"/>
+        <line num="85" count="5" type="stmt"/>
+        <line num="87" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="88" count="3" type="stmt"/>
+        <line num="90" count="2" type="stmt"/>
+        <line num="95" count="3" type="stmt"/>
+        <line num="96" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="97" count="1" type="stmt"/>
+        <line num="100" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="101" count="0" type="stmt"/>
+        <line num="103" count="2" type="stmt"/>
+        <line num="104" count="2" type="stmt"/>
+        <line num="106" count="2" type="stmt"/>
+        <line num="107" count="2" type="stmt"/>
+        <line num="108" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="109" count="6" type="cond" truecount="1" falsecount="1"/>
+        <line num="110" count="6" type="stmt"/>
+        <line num="111" count="6" type="stmt"/>
+        <line num="114" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="115" count="4" type="stmt"/>
+        <line num="116" count="4" type="stmt"/>
+        <line num="120" count="2" type="stmt"/>
+        <line num="123" count="3" type="stmt"/>
+        <line num="124" count="3" type="stmt"/>
+        <line num="125" count="3" type="stmt"/>
+        <line num="127" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="128" count="0" type="stmt"/>
+        <line num="131" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="132" count="6" type="stmt"/>
+        <line num="133" count="6" type="stmt"/>
+        <line num="134" count="6" type="stmt"/>
+        <line num="136" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="137" count="1" type="stmt"/>
+        <line num="140" count="3" type="stmt"/>
+        <line num="141" count="6" type="stmt"/>
+        <line num="142" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="143" count="1" type="stmt"/>
+        <line num="146" count="2" type="stmt"/>
+        <line num="150" count="4" type="stmt"/>
+        <line num="151" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="152" count="0" type="stmt"/>
+        <line num="155" count="4" type="stmt"/>
+        <line num="156" count="4" type="stmt"/>
+        <line num="157" count="21" type="stmt"/>
+        <line num="158" count="21" type="stmt"/>
+        <line num="160" count="4" type="stmt"/>
+        <line num="164" count="1" type="stmt"/>
+        <line num="165" count="1" type="stmt"/>
+        <line num="166" count="1" type="stmt"/>
+        <line num="167" count="1" type="stmt"/>
+        <line num="168" count="1" type="stmt"/>
+        <line num="169" count="1" type="stmt"/>
+        <line num="171" count="1" type="stmt"/>
+        <line num="172" count="1" type="stmt"/>
+        <line num="173" count="1" type="stmt"/>
+        <line num="174" count="1" type="stmt"/>
+        <line num="175" count="1" type="stmt"/>
+        <line num="177" count="1" type="stmt"/>
+        <line num="178" count="1" type="stmt"/>
+        <line num="179" count="1" type="stmt"/>
+        <line num="180" count="1" type="stmt"/>
+        <line num="181" count="1" type="stmt"/>
+        <line num="182" count="1" type="stmt"/>
+        <line num="183" count="1" type="stmt"/>
+        <line num="184" count="1" type="stmt"/>
+        <line num="186" count="1" type="stmt"/>
+        <line num="187" count="1" type="stmt"/>
+        <line num="188" count="1" type="stmt"/>
+        <line num="191" count="1" type="stmt"/>
+        <line num="192" count="1" type="stmt"/>
+        <line num="193" count="1" type="stmt"/>
+        <line num="194" count="1" type="stmt"/>
+        <line num="195" count="1" type="stmt"/>
+        <line num="196" count="1" type="stmt"/>
+        <line num="197" count="1" type="stmt"/>
+        <line num="198" count="1" type="stmt"/>
+        <line num="199" count="1" type="stmt"/>
+        <line num="200" count="1" type="stmt"/>
+        <line num="202" count="1" type="stmt"/>
+      </file>
+      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/codeChallinge9/node.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="94" type="stmt"/>
+        <line num="4" count="94" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="401-code-challenge.hashmap-repeated-word">
+      <metrics statements="63" coveredstatements="47" conditionals="22" coveredconditionals="12" methods="11" coveredmethods="9"/>
+      <file name="hashTable.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/hashmap-repeated-word/hashTable.js">
+        <metrics statements="29" coveredstatements="20" conditionals="16" coveredconditionals="8" methods="6" coveredmethods="5"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="12" count="70" type="stmt"/>
+        <line num="14" count="297" type="stmt"/>
+        <line num="22" count="33" type="stmt"/>
+        <line num="23" count="33" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="24" type="stmt"/>
+        <line num="26" count="33" type="stmt"/>
+        <line num="27" count="33" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="33" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="46" count="37" type="stmt"/>
+        <line num="47" count="37" type="cond" truecount="2" falsecount="0"/>
+        <line num="49" count="13" type="stmt"/>
+        <line num="51" count="13" type="cond" truecount="1" falsecount="1"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="54" count="13" type="stmt"/>
+        <line num="55" count="13" type="cond" truecount="2" falsecount="0"/>
+        <line num="57" count="9" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="59" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="66" count="1" type="stmt"/>
+      </file>
+      <file name="linkedList.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/hashmap-repeated-word/linkedList.js">
+        <metrics statements="18" coveredstatements="11" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="2"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="6" count="24" type="stmt"/>
+        <line num="10" count="33" type="stmt"/>
+        <line num="11" count="33" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="24" type="stmt"/>
+        <line num="13" count="24" type="stmt"/>
+        <line num="15" count="9" type="stmt"/>
+        <line num="16" count="9" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="9" type="stmt"/>
+        <line num="23" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+      </file>
+      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/hashmap-repeated-word/node.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="33" type="stmt"/>
+        <line num="6" count="33" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="repatedWord.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/hashmap-repeated-word/repatedWord.js">
+        <metrics statements="13" coveredstatements="13" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="4" count="5" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="37" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="33" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="401-code-challenge.hashtable">
+      <metrics statements="62" coveredstatements="53" conditionals="20" coveredconditionals="14" methods="10" coveredmethods="9"/>
+      <file name="hashTable.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/hashtable/hashTable.js">
+        <metrics statements="41" coveredstatements="40" conditionals="16" coveredconditionals="12" methods="6" coveredmethods="6"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="12" count="23" type="stmt"/>
+        <line num="14" count="91" type="stmt"/>
+        <line num="22" count="10" type="stmt"/>
+        <line num="23" count="10" type="stmt"/>
+        <line num="24" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="7" type="stmt"/>
+        <line num="27" count="10" type="stmt"/>
+        <line num="28" count="10" type="stmt"/>
+        <line num="32" count="5" type="stmt"/>
+        <line num="34" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="36" count="4" type="stmt"/>
+        <line num="37" count="4" type="stmt"/>
+        <line num="38" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="42" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="47" count="4" type="stmt"/>
+        <line num="48" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="50" count="4" type="stmt"/>
+        <line num="52" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="55" count="4" type="stmt"/>
+        <line num="56" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="60" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="67" count="1" type="stmt"/>
+        <line num="68" count="1" type="stmt"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="73" count="1" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+        <line num="79" count="1" type="stmt"/>
+        <line num="81" count="1" type="stmt"/>
+      </file>
+      <file name="linkedList.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/hashtable/linkedList.js">
+        <metrics statements="18" coveredstatements="10" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="2"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="6" count="7" type="stmt"/>
+        <line num="10" count="10" type="stmt"/>
+        <line num="11" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="7" type="stmt"/>
+        <line num="13" count="7" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="23" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+      </file>
+      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/hashtable/node.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="10" type="stmt"/>
+        <line num="6" count="10" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="401-code-challenge.linked-list">
+      <metrics statements="46" coveredstatements="45" conditionals="8" coveredconditionals="7" methods="6" coveredmethods="6"/>
+      <file name="linkedList.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/linked-list/linkedList.js">
+        <metrics statements="43" coveredstatements="42" conditionals="8" coveredconditionals="7" methods="5" coveredmethods="5"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="6" count="8" type="stmt"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="12" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="14" count="6" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="7" type="stmt"/>
+        <line num="20" count="7" type="stmt"/>
+        <line num="23" count="8" type="stmt"/>
+        <line num="24" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="7" type="stmt"/>
+        <line num="28" count="7" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="31" count="7" type="stmt"/>
+        <line num="36" count="3" type="stmt"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="38" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="42" count="4" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="49" count="2" type="stmt"/>
+        <line num="50" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="54" count="2" type="stmt"/>
+        <line num="55" count="2" type="stmt"/>
+        <line num="56" count="5" type="stmt"/>
+        <line num="57" count="5" type="stmt"/>
+        <line num="59" count="2" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="67" count="1" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+      </file>
+      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/linked-list/node.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="16" type="stmt"/>
+        <line num="4" count="16" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="401-code-challenge.linked-list-insertions">
+      <metrics statements="66" coveredstatements="59" conditionals="14" coveredconditionals="9" methods="8" coveredmethods="8"/>
+      <file name="linkedList.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/linked-list-insertions/linkedList.js">
+        <metrics statements="63" coveredstatements="56" conditionals="14" coveredconditionals="9" methods="7" coveredmethods="7"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="10" type="stmt"/>
+        <line num="6" count="10" type="stmt"/>
+        <line num="7" count="10" type="stmt"/>
+        <line num="11" count="8" type="stmt"/>
+        <line num="12" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="13" count="8" type="stmt"/>
+        <line num="14" count="8" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="8" type="stmt"/>
+        <line num="20" count="8" type="stmt"/>
+        <line num="23" count="12" type="stmt"/>
+        <line num="24" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="11" type="stmt"/>
+        <line num="28" count="11" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="31" count="11" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+        <line num="38" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+        <line num="43" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="45" count="2" type="stmt"/>
+        <line num="46" count="2" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="52" count="2" type="stmt"/>
+        <line num="53" count="2" type="stmt"/>
+        <line num="54" count="2" type="stmt"/>
+        <line num="55" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="56" count="2" type="stmt"/>
+        <line num="57" count="2" type="stmt"/>
+        <line num="58" count="2" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="65" count="3" type="stmt"/>
+        <line num="66" count="3" type="stmt"/>
+        <line num="67" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="68" count="2" type="stmt"/>
+        <line num="69" count="2" type="stmt"/>
+        <line num="71" count="6" type="stmt"/>
+        <line num="73" count="1" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="78" count="2" type="stmt"/>
+        <line num="79" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="83" count="2" type="stmt"/>
+        <line num="84" count="2" type="stmt"/>
+        <line num="85" count="7" type="stmt"/>
+        <line num="86" count="7" type="stmt"/>
+        <line num="88" count="2" type="stmt"/>
+        <line num="92" count="1" type="stmt"/>
+        <line num="93" count="1" type="stmt"/>
+        <line num="94" count="1" type="stmt"/>
+        <line num="95" count="1" type="stmt"/>
+        <line num="96" count="1" type="stmt"/>
+        <line num="97" count="1" type="stmt"/>
+        <line num="100" count="1" type="stmt"/>
+        <line num="101" count="1" type="stmt"/>
+        <line num="102" count="1" type="stmt"/>
+      </file>
+      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/linked-list-insertions/node.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="25" type="stmt"/>
+        <line num="4" count="25" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="401-code-challenge.linked-list-kth">
+      <metrics statements="77" coveredstatements="73" conditionals="18" coveredconditionals="15" methods="9" coveredmethods="9"/>
+      <file name="linkedList.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/linked-list-kth/linkedList.js">
+        <metrics statements="74" coveredstatements="70" conditionals="18" coveredconditionals="15" methods="8" coveredmethods="8"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="15" type="stmt"/>
+        <line num="6" count="15" type="stmt"/>
+        <line num="7" count="15" type="stmt"/>
+        <line num="11" count="13" type="stmt"/>
+        <line num="12" count="13" type="cond" truecount="1" falsecount="1"/>
+        <line num="13" count="13" type="stmt"/>
+        <line num="14" count="13" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="13" type="stmt"/>
+        <line num="20" count="13" type="stmt"/>
+        <line num="23" count="25" type="stmt"/>
+        <line num="24" count="25" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="24" type="stmt"/>
+        <line num="28" count="24" type="stmt"/>
+        <line num="29" count="17" type="stmt"/>
+        <line num="31" count="24" type="stmt"/>
+        <line num="36" count="3" type="stmt"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="38" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="42" count="3" type="stmt"/>
+        <line num="43" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="45" count="2" type="stmt"/>
+        <line num="46" count="2" type="stmt"/>
+        <line num="48" count="6" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="55" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="65" count="3" type="stmt"/>
+        <line num="66" count="3" type="stmt"/>
+        <line num="67" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="68" count="1" type="stmt"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="71" count="9" type="stmt"/>
+        <line num="73" count="2" type="stmt"/>
+        <line num="74" count="2" type="stmt"/>
+        <line num="78" count="6" type="stmt"/>
+        <line num="79" count="6" type="stmt"/>
+        <line num="80" count="6" type="stmt"/>
+        <line num="81" count="23" type="stmt"/>
+        <line num="82" count="23" type="stmt"/>
+        <line num="85" count="6" type="stmt"/>
+        <line num="87" count="6" type="cond" truecount="4" falsecount="0"/>
+        <line num="88" count="3" type="stmt"/>
+        <line num="90" count="3" type="stmt"/>
+        <line num="95" count="2" type="stmt"/>
+        <line num="96" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="97" count="0" type="stmt"/>
+        <line num="100" count="2" type="stmt"/>
+        <line num="101" count="2" type="stmt"/>
+        <line num="102" count="8" type="stmt"/>
+        <line num="103" count="8" type="stmt"/>
+        <line num="105" count="2" type="stmt"/>
+        <line num="109" count="1" type="stmt"/>
+        <line num="110" count="1" type="stmt"/>
+        <line num="111" count="1" type="stmt"/>
+        <line num="112" count="1" type="stmt"/>
+        <line num="113" count="1" type="stmt"/>
+        <line num="114" count="1" type="stmt"/>
+        <line num="115" count="1" type="stmt"/>
+        <line num="118" count="1" type="stmt"/>
+        <line num="119" count="1" type="stmt"/>
+        <line num="120" count="1" type="stmt"/>
+        <line num="121" count="1" type="stmt"/>
+      </file>
+      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/linked-list-kth/node.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="43" type="stmt"/>
+        <line num="4" count="43" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="401-code-challenge.linked-list-zip">
+      <metrics statements="103" coveredstatements="98" conditionals="28" coveredconditionals="23" methods="10" coveredmethods="10"/>
+      <file name="linkedlist.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/linked-list-zip/linkedlist.js">
+        <metrics statements="100" coveredstatements="95" conditionals="28" coveredconditionals="23" methods="9" coveredmethods="9"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="30" type="stmt"/>
+        <line num="6" count="30" type="stmt"/>
+        <line num="7" count="30" type="stmt"/>
+        <line num="11" count="23" type="stmt"/>
+        <line num="12" count="23" type="cond" truecount="1" falsecount="1"/>
+        <line num="13" count="23" type="stmt"/>
+        <line num="14" count="23" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="23" type="stmt"/>
+        <line num="20" count="23" type="stmt"/>
+        <line num="23" count="64" type="stmt"/>
+        <line num="24" count="64" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="63" type="stmt"/>
+        <line num="28" count="63" type="stmt"/>
+        <line num="29" count="91" type="stmt"/>
+        <line num="31" count="63" type="stmt"/>
+        <line num="32" count="63" type="stmt"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="38" count="3" type="stmt"/>
+        <line num="39" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="43" count="3" type="stmt"/>
+        <line num="44" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="45" count="2" type="stmt"/>
+        <line num="46" count="2" type="stmt"/>
+        <line num="47" count="2" type="stmt"/>
+        <line num="49" count="6" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="56" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="66" count="2" type="stmt"/>
+        <line num="67" count="2" type="stmt"/>
+        <line num="68" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="72" count="3" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="78" count="5" type="stmt"/>
+        <line num="79" count="5" type="stmt"/>
+        <line num="80" count="5" type="stmt"/>
+        <line num="81" count="17" type="stmt"/>
+        <line num="82" count="17" type="stmt"/>
+        <line num="85" count="5" type="stmt"/>
+        <line num="87" count="5" type="cond" truecount="4" falsecount="0"/>
+        <line num="88" count="3" type="stmt"/>
+        <line num="90" count="2" type="stmt"/>
+        <line num="95" count="4" type="stmt"/>
+        <line num="96" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="97" count="1" type="stmt"/>
+        <line num="100" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="101" count="0" type="stmt"/>
+        <line num="103" count="3" type="stmt"/>
+        <line num="104" count="3" type="stmt"/>
+        <line num="106" count="3" type="stmt"/>
+        <line num="107" count="3" type="stmt"/>
+        <line num="108" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="109" count="10" type="cond" truecount="1" falsecount="1"/>
+        <line num="110" count="10" type="stmt"/>
+        <line num="111" count="10" type="stmt"/>
+        <line num="114" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="115" count="6" type="stmt"/>
+        <line num="116" count="6" type="stmt"/>
+        <line num="120" count="3" type="stmt"/>
+        <line num="124" count="5" type="stmt"/>
+        <line num="125" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="126" count="0" type="stmt"/>
+        <line num="129" count="5" type="stmt"/>
+        <line num="130" count="5" type="stmt"/>
+        <line num="131" count="29" type="stmt"/>
+        <line num="132" count="29" type="stmt"/>
+        <line num="134" count="5" type="stmt"/>
+        <line num="138" count="1" type="stmt"/>
+        <line num="139" count="1" type="stmt"/>
+        <line num="140" count="1" type="stmt"/>
+        <line num="141" count="1" type="stmt"/>
+        <line num="142" count="1" type="stmt"/>
+        <line num="143" count="1" type="stmt"/>
+        <line num="144" count="1" type="stmt"/>
+        <line num="146" count="1" type="stmt"/>
+        <line num="147" count="1" type="stmt"/>
+        <line num="148" count="1" type="stmt"/>
+        <line num="149" count="1" type="stmt"/>
+        <line num="150" count="1" type="stmt"/>
+        <line num="151" count="1" type="stmt"/>
+        <line num="152" count="1" type="stmt"/>
+        <line num="153" count="1" type="stmt"/>
+        <line num="154" count="1" type="stmt"/>
+        <line num="155" count="1" type="stmt"/>
+        <line num="157" count="1" type="stmt"/>
+        <line num="159" count="1" type="stmt"/>
+      </file>
+      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/linked-list-zip/node.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="92" type="stmt"/>
+        <line num="5" count="92" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="401-code-challenge.stack-and-queue">
+      <metrics statements="58" coveredstatements="52" conditionals="18" coveredconditionals="12" methods="11" coveredmethods="11"/>
+      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/stack-and-queue/node.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="37" type="stmt"/>
+        <line num="6" count="37" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+      </file>
+      <file name="queue.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/stack-and-queue/queue.js">
+        <metrics statements="29" coveredstatements="26" conditionals="10" coveredconditionals="7" methods="5" coveredmethods="5"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="12" count="17" type="stmt"/>
+        <line num="13" count="17" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="7" type="stmt"/>
+        <line num="15" count="7" type="stmt"/>
+        <line num="17" count="10" type="stmt"/>
+        <line num="18" count="10" type="stmt"/>
+        <line num="23" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="26" count="4" type="stmt"/>
+        <line num="27" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="30" count="4" type="stmt"/>
+        <line num="32" count="4" type="stmt"/>
+        <line num="37" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="45" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+      </file>
+      <file name="stack.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/stack-and-queue/stack.js">
+        <metrics statements="26" coveredstatements="23" conditionals="8" coveredconditionals="5" methods="5" coveredmethods="5"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="11" count="19" type="stmt"/>
+        <line num="12" count="19" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="12" type="stmt"/>
+        <line num="14" count="12" type="stmt"/>
+        <line num="16" count="19" type="stmt"/>
+        <line num="20" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="21" count="4" type="stmt"/>
+        <line num="22" count="4" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="31" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="39" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="401-code-challenge.stack-queue-animal-shelter">
+      <metrics statements="80" coveredstatements="71" conditionals="24" coveredconditionals="17" methods="15" coveredmethods="13"/>
+      <file name="animal.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/stack-queue-animal-shelter/animal.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="11" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+      <file name="animalShelter.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/stack-queue-animal-shelter/animalShelter.js">
+        <metrics statements="26" coveredstatements="26" conditionals="8" coveredconditionals="8" methods="3" coveredmethods="3"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="8" count="7" type="stmt"/>
+        <line num="9" count="7" type="stmt"/>
+        <line num="13" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="15" count="4" type="stmt"/>
+        <line num="16" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="25" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+      </file>
+      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/stack-queue-animal-shelter/node.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="47" type="stmt"/>
+        <line num="6" count="47" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+      </file>
+      <file name="queue.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/stack-queue-animal-shelter/queue.js">
+        <metrics statements="21" coveredstatements="14" conditionals="6" coveredconditionals="2" methods="5" coveredmethods="3"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="10" count="17" type="stmt"/>
+        <line num="11" count="17" type="stmt"/>
+        <line num="12" count="17" type="stmt"/>
+        <line num="16" count="18" type="stmt"/>
+        <line num="17" count="18" type="stmt"/>
+        <line num="21" count="7" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="27" count="12" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="31" count="5" type="stmt"/>
+        <line num="37" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="45" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="60" count="2" type="stmt"/>
+      </file>
+      <file name="stack.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/stack-queue-animal-shelter/stack.js">
+        <metrics statements="28" coveredstatements="26" conditionals="10" coveredconditionals="7" methods="5" coveredmethods="5"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="7" count="41" type="stmt"/>
+        <line num="8" count="41" type="stmt"/>
+        <line num="9" count="41" type="stmt"/>
+        <line num="13" count="46" type="stmt"/>
+        <line num="14" count="46" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="20" type="stmt"/>
+        <line num="16" count="20" type="stmt"/>
+        <line num="18" count="26" type="stmt"/>
+        <line num="19" count="26" type="stmt"/>
+        <line num="20" count="26" type="stmt"/>
+        <line num="22" count="46" type="stmt"/>
+        <line num="23" count="46" type="stmt"/>
+        <line num="27" count="22" type="cond" truecount="1" falsecount="1"/>
+        <line num="29" count="22" type="stmt"/>
+        <line num="31" count="22" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="7" type="stmt"/>
+        <line num="34" count="22" type="stmt"/>
+        <line num="35" count="22" type="stmt"/>
+        <line num="36" count="22" type="stmt"/>
+        <line num="41" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="49" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="63" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="401-code-challenge.stack-queue-brackets">
+      <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="stack-queue-brackets.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/stack-queue-brackets/stack-queue-brackets.js">
+        <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="4" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="13" count="24" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="13" type="stmt"/>
+        <line num="16" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="401-code-challenge.stack-queue-pseudo">
+      <metrics statements="62" coveredstatements="53" conditionals="16" coveredconditionals="9" methods="11" coveredmethods="9"/>
+      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/stack-queue-pseudo/node.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="41" type="stmt"/>
+        <line num="6" count="41" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+      </file>
+      <file name="queue.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/stack-queue-pseudo/queue.js">
+        <metrics statements="26" coveredstatements="19" conditionals="6" coveredconditionals="2" methods="5" coveredmethods="3"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="10" count="4" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="16" count="12" type="stmt"/>
+        <line num="17" count="12" type="stmt"/>
+        <line num="21" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="27" count="6" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="37" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="45" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+      </file>
+      <file name="stak.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/stack-queue-pseudo/stak.js">
+        <metrics statements="33" coveredstatements="31" conditionals="10" coveredconditionals="7" methods="5" coveredmethods="5"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="7" count="17" type="stmt"/>
+        <line num="8" count="17" type="stmt"/>
+        <line num="9" count="17" type="stmt"/>
+        <line num="13" count="40" type="stmt"/>
+        <line num="14" count="40" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="14" type="stmt"/>
+        <line num="16" count="14" type="stmt"/>
+        <line num="18" count="26" type="stmt"/>
+        <line num="19" count="26" type="stmt"/>
+        <line num="20" count="26" type="stmt"/>
+        <line num="22" count="40" type="stmt"/>
+        <line num="23" count="40" type="stmt"/>
+        <line num="27" count="13" type="cond" truecount="1" falsecount="1"/>
+        <line num="29" count="13" type="stmt"/>
+        <line num="31" count="13" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="4" type="stmt"/>
+        <line num="34" count="13" type="stmt"/>
+        <line num="35" count="13" type="stmt"/>
+        <line num="36" count="13" type="stmt"/>
+        <line num="41" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="49" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="52" count="3" type="stmt"/>
+        <line num="56" count="2" type="stmt"/>
+        <line num="57" count="2" type="stmt"/>
+        <line num="58" count="2" type="stmt"/>
+        <line num="59" count="2" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+        <line num="63" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="401-code-challenge.tree-breadth-first">
+      <metrics statements="54" coveredstatements="27" conditionals="24" coveredconditionals="12" methods="11" coveredmethods="5"/>
+      <file name="binaryTree.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/tree-breadth-first/binaryTree.js">
+        <metrics statements="50" coveredstatements="23" conditionals="24" coveredconditionals="12" methods="10" coveredmethods="4"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="44" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="54" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="59" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="60" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="61" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="72" count="9" type="stmt"/>
+        <line num="73" count="9" type="stmt"/>
+        <line num="74" count="9" type="stmt"/>
+        <line num="75" count="9" type="stmt"/>
+        <line num="77" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="78" count="4" type="stmt"/>
+        <line num="81" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="82" count="4" type="stmt"/>
+        <line num="85" count="1" type="stmt"/>
+        <line num="92" count="1" type="stmt"/>
+      </file>
+      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/tree-breadth-first/node.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="14" type="stmt"/>
+        <line num="7" count="14" type="stmt"/>
+        <line num="8" count="14" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="401-code-challenge.tree-fizz-buzz">
+      <metrics statements="116" coveredstatements="68" conditionals="36" coveredconditionals="12" methods="14" coveredmethods="5"/>
+      <file name="binaryTree.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/tree-fizz-buzz/binaryTree.js">
+        <metrics statements="70" coveredstatements="22" conditionals="24" coveredconditionals="0" methods="10" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="45" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="55" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="60" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="61" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="62" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="77" count="0" type="stmt"/>
+        <line num="79" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="83" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="84" count="0" type="stmt"/>
+        <line num="87" count="0" type="stmt"/>
+        <line num="91" count="1" type="stmt"/>
+        <line num="92" count="1" type="stmt"/>
+        <line num="93" count="1" type="stmt"/>
+        <line num="94" count="1" type="stmt"/>
+        <line num="95" count="1" type="stmt"/>
+        <line num="96" count="1" type="stmt"/>
+        <line num="97" count="1" type="stmt"/>
+        <line num="98" count="1" type="stmt"/>
+        <line num="99" count="1" type="stmt"/>
+        <line num="101" count="1" type="stmt"/>
+        <line num="102" count="1" type="stmt"/>
+        <line num="103" count="1" type="stmt"/>
+        <line num="104" count="1" type="stmt"/>
+        <line num="105" count="1" type="stmt"/>
+        <line num="106" count="1" type="stmt"/>
+        <line num="107" count="1" type="stmt"/>
+        <line num="108" count="1" type="stmt"/>
+        <line num="110" count="1" type="stmt"/>
+        <line num="112" count="1" type="stmt"/>
+        <line num="117" count="1" type="stmt"/>
+      </file>
+      <file name="fizz-buzz-tree.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/tree-fizz-buzz/fizz-buzz-tree.js">
+        <metrics statements="43" coveredstatements="43" conditionals="12" coveredconditionals="12" methods="3" coveredmethods="3"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="9" count="13" type="cond" truecount="4" falsecount="0"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="4" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="15" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="19" count="5" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="23" count="13" type="stmt"/>
+        <line num="28" count="31" type="stmt"/>
+        <line num="29" count="31" type="stmt"/>
+        <line num="30" count="39" type="stmt"/>
+        <line num="31" count="39" type="cond" truecount="4" falsecount="0"/>
+        <line num="32" count="26" type="stmt"/>
+        <line num="34" count="13" type="stmt"/>
+        <line num="37" count="31" type="stmt"/>
+        <line num="39" count="5" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="60" count="1" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="67" count="1" type="stmt"/>
+        <line num="69" count="1" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+      </file>
+      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/tree-fizz-buzz/node.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="22" type="stmt"/>
+        <line num="6" count="22" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="401-code-challenge.tree-max">
+      <metrics statements="72" coveredstatements="64" conditionals="38" coveredconditionals="30" methods="15" coveredmethods="15"/>
+      <file name="binarySearchTree.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/tree-max/binarySearchTree.js">
+        <metrics statements="30" coveredstatements="22" conditionals="18" coveredconditionals="10" methods="5" coveredmethods="5"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="11" count="34" type="stmt"/>
+        <line num="12" count="34" type="stmt"/>
+        <line num="13" count="65" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="22" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="10" type="stmt"/>
+        <line num="17" count="12" type="stmt"/>
+        <line num="20" count="43" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="19" type="stmt"/>
+        <line num="23" count="24" type="stmt"/>
+        <line num="28" count="34" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="5" type="stmt"/>
+        <line num="31" count="29" type="stmt"/>
+        <line num="36" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="44" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="49" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+      </file>
+      <file name="binaryTree.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/tree-max/binaryTree.js">
+        <metrics statements="38" coveredstatements="38" conditionals="20" coveredconditionals="20" methods="9" coveredmethods="9"/>
+        <line num="5" count="8" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="20" type="stmt"/>
+        <line num="11" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="6" type="stmt"/>
+        <line num="14" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="12" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="6" type="stmt"/>
+        <line num="28" count="20" type="stmt"/>
+        <line num="29" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="30" count="12" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="40" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="41" count="6" type="stmt"/>
+        <line num="43" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="44" count="12" type="stmt"/>
+        <line num="46" count="20" type="stmt"/>
+        <line num="48" count="2" type="stmt"/>
+        <line num="49" count="2" type="stmt"/>
+        <line num="53" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="54" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="58" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="59" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="60" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="68" count="2" type="stmt"/>
+      </file>
+      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/tree-max/node.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="40" type="stmt"/>
+        <line num="7" count="40" type="stmt"/>
+        <line num="8" count="40" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="401-code-challenge.trees">
+      <metrics statements="63" coveredstatements="55" conditionals="30" coveredconditionals="22" methods="13" coveredmethods="13"/>
+      <file name="binarySearchTree.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/trees/binarySearchTree.js">
+        <metrics statements="30" coveredstatements="22" conditionals="18" coveredconditionals="10" methods="5" coveredmethods="5"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="11" count="34" type="stmt"/>
+        <line num="12" count="34" type="stmt"/>
+        <line num="13" count="65" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="22" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="10" type="stmt"/>
+        <line num="17" count="12" type="stmt"/>
+        <line num="20" count="43" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="19" type="stmt"/>
+        <line num="23" count="24" type="stmt"/>
+        <line num="28" count="34" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="5" type="stmt"/>
+        <line num="31" count="29" type="stmt"/>
+        <line num="36" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="41" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="44" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="49" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+      </file>
+      <file name="binaryTree.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/trees/binaryTree.js">
+        <metrics statements="29" coveredstatements="29" conditionals="12" coveredconditionals="12" methods="7" coveredmethods="7"/>
+        <line num="5" count="6" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="20" type="stmt"/>
+        <line num="11" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="6" type="stmt"/>
+        <line num="14" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="12" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="6" type="stmt"/>
+        <line num="28" count="20" type="stmt"/>
+        <line num="29" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="30" count="12" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="40" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="41" count="6" type="stmt"/>
+        <line num="43" count="20" type="cond" truecount="2" falsecount="0"/>
+        <line num="44" count="12" type="stmt"/>
+        <line num="46" count="20" type="stmt"/>
+        <line num="48" count="2" type="stmt"/>
+        <line num="49" count="2" type="stmt"/>
+        <line num="54" count="1" type="stmt"/>
+      </file>
+      <file name="node.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/401-code-challenge/trees/node.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="35" type="stmt"/>
+        <line num="6" count="35" type="stmt"/>
+        <line num="7" count="35" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="javascript.code-challenges.reverse-ll">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <line num="5" count="10" type="stmt"/>
-      <line num="6" count="10" type="stmt"/>
-      <line num="10" count="1" type="stmt"/>
-    </file>
+      <file name="reverse-ll.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/javascript/code-challenges/reverse-ll/reverse-ll.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="javascript.linked-list">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.js" path="/home/muntherabdlrahman/301/data-structures-and-algorithms/javascript/linked-list/index.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="7" count="2" type="stmt"/>
+      </file>
+    </package>
   </project>
 </coverage>
