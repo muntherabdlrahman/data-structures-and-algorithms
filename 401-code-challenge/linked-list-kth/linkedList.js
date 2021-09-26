@@ -91,18 +91,44 @@ class LinkedList {
       }
   }
 
-  toString() {
-    let current = this.head;
-    if (!current) {
-      throw new Error("the linked list does not exisit");
-    }
 
-    let format = "";
-    while (current) {
-      format += `{${current.value}}-->`;
-      current = current.next;
+  // toString() {
+  //   let current = this.head;
+  //   if (!current) {
+  //     throw new Error("the linked list does not exisit");
+  //   }
+
+  //   let format = "";
+  //   while (current) {
+  //     format += `{${current.value}}-->`;
+  //     current = current.next;
+  //   }
+  //   return (format += "NULL");
+  // }
+
+
+  nonRepeted(value){
+    let newNode=new Node(value);
+
+   let newArray=[];
+    if(!this.head){
+      current=this.head;
+      while(newNode){
+        if(newNode.value==newNode.next.value){
+          newNode=newNode.next;
+
+        }else{
+          newArray.append(newNode.value)
+          newNode=newNode.next;
+
+
+        }if(newNode.next==null){
+          newArray.append(newNode.value)
+          console.log(newArray)
+        }
+
+      }
     }
-    return (format += "NULL");
   }
 }
 
@@ -113,9 +139,10 @@ list.append('i');
 list.append('b');
 list.insertBefore('b','e');
 list.insertBefore('a','z');
+list.nonRepeted("1","2","2","3");
 
-
-console.log(list.toString());
-console.log(list.includes('b'));
-console.log(list.kthFromEnd('a'));
+// console.log(list.toString());
+// console.log(list.includes('b'));
+// console.log(list.kthFromEnd('a'));
+console.log(list.nonRepeted())
 module.exports=LinkedList
