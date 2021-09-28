@@ -50,6 +50,8 @@ No|Code #
 25|[code-challenge34](401-code-challenge/most-common-word-in-book/read.md)
 26|[code-challenge35](401-code-challenge/graph/read.md)
 27|[code-challenge36](401-code-challenge/graph-breadth-first/read.md)
+28|[code-challenge37](401-code-challenge/graph-business-trip/read.md)
+29|[code-challenge38](401-code-challenge/graph-depth-first/read.md)
 
 
 
