@@ -52,6 +52,7 @@ No|Code #
 27|[code-challenge36](401-code-challenge/graph-breadth-first/read.md)
 28|[code-challenge37](401-code-challenge/graph-business-trip/read.md)
 29|[code-challenge38](401-code-challenge/graph-depth-first/read.md)
+30|[code-challenge39](401-code-challenge/class39-2/read.md)
 
 
 
